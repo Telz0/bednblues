@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Enemy';
+    src: url('Enemy-.eot');
+    src: url('Enemy-.eot?#iefix') format('embedded-opentype'),
+        url('Enemy-.woff2') format('woff2'),
+        url('Enemy-.woff') format('woff'),
+        url('Enemy-.ttf') format('truetype'),
+        url('Enemy-.svg#Enemy-') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
